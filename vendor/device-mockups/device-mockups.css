@@ -795,7 +795,7 @@
 .device-mockup.pixel.white > .device,
 .device-mockup.pixel.portrait.white > .device {
 	top: -5%;
-  background-image: url("pixel/very_silver.png");
+	  background-image: url("pixel/very_silver.png");
 }
 
 .device-mockup.pixel.landscape.white > .device {
@@ -804,7 +804,10 @@
 
 .device-mockup.pixel > .device > .screen,
 .device-mockup.pixel.portrait > .device > .screen {
-	top: 17%; bottom: 17%; left: 13.5%; right: 13.5%;
+	top: 17%;
+bottom: 16.5%;
+left: 13.2%;
+right: 13%;
 }
 
 .device-mockup.pixel.landscape > .device > .screen {

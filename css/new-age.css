@@ -239,7 +239,7 @@ section.download .badges .badge-link {
 section.download .badges .badge-link:last-child {
   margin-bottom: 0;
 }
-section.download .badges .badge-link img {
+.badges .badge-link img {
   height: 60px;
 }
 @media (min-width: 768px) {
@@ -421,10 +421,10 @@ footer ul li a.active {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   text-transform: uppercase;
   letter-spacing: 2px;
-  border-radius: 300px;
+  border-radius: 8px;
 }
 .btn-xl {
-  padding: 15px 45px;
+  padding: 21.5px 59.5px;
   font-size: 11px;
 }
 ::-moz-selection {
